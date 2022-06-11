@@ -7,8 +7,10 @@
   
 
 <br/>  
-
-
+  <p style="font-size: 12px;">
+    Hey, my name is Jakub. I'm lazy developer who works when he feels like it. :D
+  </p>
+<br/>  
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
