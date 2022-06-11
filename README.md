@@ -11,7 +11,7 @@
     Hey, my name is Jakub. I'm lazy developer who works when he feels like it. :D
   </p>
 <br/>  
-## My Skill Set  
+List of stuff I know 
 <table><tr><td valign="top" width="33%">
 
 
